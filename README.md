@@ -1,2 +1,2 @@
 # CoinToTheMoon
-🚀 CoinToTheMoon: Your all-in-one iOS app for real-time crypto insights! Track prices, analyze trends, and explore data with SwiftUI integration.
+🚀 CoinToTheMoon: A cutting-edge iOS app for crypto enthusiasts! Built with SwiftUI, MVVM, Combine, and CoreData, it delivers real-time insights and seamless data tracking.
